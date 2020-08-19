@@ -1,2 +1,12 @@
-Decide which business to order form
-Decide which type of pizza to order
+1. Decide which business to order form
+2. Decide which type of pizza to order
+3. Make the call
+4. Make the order
+  4a. Pay over the phone
+  4b. Pay at the door
+5. Wait
+6. Greet the driver
+  6a. see step 4b if necessary
+7. Enjoy!
+8. Order more?
+  8a. If so, lather, rinse and repeat
