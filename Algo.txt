@@ -4,9 +4,9 @@
 4. Make the order
   4a. Pay over the phone
   4b. Pay at the door
-5. Wait
+5. Wait for the pizza
 6. Greet the driver
-  6a. see step 4b if necessary
+  6a. See step 4b if necessary
 7. Enjoy!
 8. Order more?
   8a. If so, lather, rinse and repeat
