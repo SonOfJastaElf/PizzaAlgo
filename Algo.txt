@@ -7,6 +7,8 @@
 5. Wait for the pizza
 6. Greet the driver
   6a. See step 4b if necessary
+  6b. Make sure order is correct
+    6b1. if so, see step 4b if necessary
 7. Enjoy!
 8. Order more?
   8a. If so, lather, rinse and repeat
